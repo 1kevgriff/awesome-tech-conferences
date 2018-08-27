@@ -5,7 +5,7 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
-## June 2018
+## June 2019
 - :star: (June 6-7) [RevolutionConf](https://revolutionconf.com) (Virginia Beach, VA USA) - RevolutionConf is a two-day developer conference designed to help unite developers of all technologies and backgrounds.  Our 4th year running and we're right off the beach!
 
 ## November 2018
